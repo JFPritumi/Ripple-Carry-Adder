@@ -1,2 +1,3 @@
 # Ripple-Carry-Adder
-[Design and testbench codes]([https://example.com](https://edaplayground.com/x/ciZJ))
+<a href="https://edaplayground.com/x/ciZJ">Design and testbench codes</a>
+
